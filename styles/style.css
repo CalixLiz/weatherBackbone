@@ -1,0 +1,82 @@
+
+
+body{
+	text-align: center;
+	padding: 30px 20px 10px 20px;
+}
+
+
+.container{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	font-size: 19px;
+
+}
+
+
+.cityName{
+	text-align: center;
+	margin-top: 30px;
+	font-size: 29px;
+	font-weight: bold;
+}
+
+
+
+.button {
+	padding-top: 30px;
+}
+
+.current{
+	width: 90px;
+	height: 45px;
+	background-color: #98A3D2;
+	border-radius: 26%;
+}
+
+.hourly{
+	width: 90px;
+	height: 45px;
+	background-color: #98A3D2;
+	border-radius: 26%;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+
+.daily{
+	width: 90px;
+	height: 45px;
+	background-color: #98A3D2;
+	border-radius: 26%;
+}
+
+
+.oneDiv{
+	padding: 20px 20px 10px 20px;
+	font-size: 19px;
+	color: #60823A;
+
+}
+
+.twoDiv{
+	padding: 20px 20px 10px 20px;
+	font-size: 19px;
+	color: #FD712E;
+}
+
+.treDiv{
+	padding: 20px 20px 10px 20px;
+	font-size: 19px;
+	color: #804E49;
+
+}
+
+.hour{
+	text-align: center;
+	font-size: 19px;
+	color: #FD712E;
+}
+
+
+
